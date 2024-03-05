@@ -1,5 +1,5 @@
 # data_science_projects
-This project worked in group of 3 students and also known as final project in Advanced Machine Learning Course (AML)
+This project is created by group of 3 students and also known as final project in Advanced Machine Learning Course (AML)
 
 The popose of this project is to determine strength of each member and estimate knowledge in machine learning / deep learning 
 

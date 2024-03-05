@@ -3,7 +3,7 @@ This project worked in group of 3 students and also known as final project in Ad
 
 The popose of this project is to determine strength of each members and estimate knowledge in machine learning / deep learning 
 
-Topic : Perform classification of skin cancer through images ( object data collect thourgh Google API )
+Topic : Perform classification of skin cancer through images ( object data collect through Google API )
 
 Programming Languages & Tools :
 

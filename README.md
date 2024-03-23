@@ -5,7 +5,7 @@ The popose of this project is to determine strength of each member and estimate 
 
 This project focus on agruments , provide wider vision of CNN ( Convolutional Neural Network )
 
-Topic : Perform classification of skin cancer through images ( object data collect through Google API )
+Topic : Perform classification of skin cancer through images ( object data collected through Google API )
 
 Programming Languages & Tools :
 
